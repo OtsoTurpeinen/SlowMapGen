@@ -3,11 +3,15 @@ I needed tool to visualize cellular automata based map generation. This tool doe
 
 ### Usage
 You need löve game engine to run this program.
-https://love2d.org/
 Mouse to toggle the boolean values on the "filter".
 Space to run the filter.
 Enter to re-randomize initial state.
 Up / Down arrow keys to change filter size.
 
 ### Credits
-the simple "class.lua" from http://lua-users.org/wiki/SimpleLuaClasses
+The simple "class.lua" from lua-users.org wiki.
+
+
+### Links
+http://lua-users.org/wiki/SimpleLuaClasses
+https://love2d.org/
